@@ -2,7 +2,7 @@
  
 Meu nome e gian
 
--Estou estudando na [Alura](https://www.alura.com.br0
+-Estou estudando na [Alura](https://www.alura.com.br)
 -Estou me desenvolvendo na linguagem javaScript
 -Utilizoesse espaço para minha organizaçao compartilhamento dos meus projetos desenvolvidos
 
